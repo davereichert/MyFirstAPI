@@ -1,0 +1,151 @@
+2023-10-19 16:01:16.498 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:01:16.541 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:01:16.542 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:01:16.542 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:01:17.569 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:01:17.625 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 59.7495ms
+2023-10-19 16:01:22.958 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:01:22.963 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 5.1295ms
+2023-10-19 16:03:22.753 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:03:22.783 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:03:22.784 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:03:22.784 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:03:24.071 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:03:24.138 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 69.2160ms
+2023-10-19 16:03:25.800 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:03:25.802 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 2.3273ms
+2023-10-19 16:03:28.182 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:03:28.187 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 4.8151ms
+2023-10-19 16:04:12.724 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:04:12.753 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:04:12.754 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:04:12.754 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:04:13.862 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:04:14.000 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 139.6760ms
+2023-10-19 16:07:25.932 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:07:25.959 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:07:25.959 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:07:25.959 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:07:27.034 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:27.103 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 69.9787ms
+2023-10-19 16:07:35.188 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:35.191 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 2.9988ms
+2023-10-19 16:07:35.892 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:35.898 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 4.1250ms
+2023-10-19 16:07:36.183 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:36.185 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 2.2618ms
+2023-10-19 16:07:36.434 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:36.436 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 1.7628ms
+2023-10-19 16:07:36.616 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:36.618 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 2.6325ms
+2023-10-19 16:07:36.800 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:36.805 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 4.5997ms
+2023-10-19 16:07:37.012 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:37.015 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 2.9742ms
+2023-10-19 16:07:37.192 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:07:37.194 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 2.3217ms
+2023-10-19 16:08:08.496 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:08:08.540 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:08:08.540 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:08:08.540 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:08:09.361 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:09.470 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 109.3719ms
+2023-10-19 16:08:10.792 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:10.793 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 1.5135ms
+2023-10-19 16:08:11.111 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:11.117 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 6.6653ms
+2023-10-19 16:08:11.639 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:11.640 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 2.0445ms
+2023-10-19 16:08:11.969 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:11.973 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 4.5823ms
+2023-10-19 16:08:12.249 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:12.253 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 4.1581ms
+2023-10-19 16:08:12.503 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:12.504 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 1.6570ms
+2023-10-19 16:08:12.789 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:12.791 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 2.0376ms
+2023-10-19 16:08:12.938 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:08:12.941 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 3.2181ms
+2023-10-19 16:08:45.238 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/api/Values/all - -
+2023-10-19 16:08:45.247 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/api/Values/all - - - 404 0 - 8.3904ms
+2023-10-19 16:09:45.604 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:09:45.648 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:09:45.649 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:09:45.649 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:09:46.743 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:09:46.826 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 85.5168ms
+2023-10-19 16:09:49.196 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:09:49.198 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 3.0272ms
+2023-10-19 16:09:49.917 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:09:49.920 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 404 0 - 3.7630ms
+2023-10-19 16:11:31.632 +02:00 [INF] Now listening on: https://localhost:7121
+2023-10-19 16:11:31.662 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:11:31.664 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:11:31.665 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:11:31.665 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:11:32.652 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger - -
+2023-10-19 16:11:32.693 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger - - - 404 0 - 43.2682ms
+2023-10-19 16:11:38.216 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger - -
+2023-10-19 16:11:38.218 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger - - - 404 0 - 2.5117ms
+2023-10-19 16:14:29.285 +02:00 [INF] Now listening on: https://localhost:7121
+2023-10-19 16:14:29.316 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:14:29.318 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:14:29.318 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:14:29.318 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:14:30.001 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger - -
+2023-10-19 16:14:30.083 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-10-19 16:14:30.637 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger - - - 500 - text/html;+charset=utf-8 637.4040ms
+2023-10-19 16:14:30.666 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/_framework/aspnetcore-browser-refresh.js - -
+2023-10-19 16:14:30.666 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/_vs/browserLink - -
+2023-10-19 16:14:30.690 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/_framework/aspnetcore-browser-refresh.js - - - 200 12370 application/javascript;+charset=utf-8 23.6052ms
+2023-10-19 16:14:30.718 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.7529ms
+2023-10-19 16:14:30.753 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/favicon.ico - -
+2023-10-19 16:14:30.755 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-10-19 16:14:30.761 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/favicon.ico - - - 500 - text/plain;+charset=utf-8 7.5964ms
+2023-10-19 16:14:44.256 +02:00 [INF] Now listening on: https://localhost:7121
+2023-10-19 16:14:44.312 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:14:44.316 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:14:44.317 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:14:44.317 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:14:45.101 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/swagger - -
+2023-10-19 16:14:45.175 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-10-19 16:14:45.459 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/swagger - - - 500 - text/html;+charset=utf-8 366.7207ms
+2023-10-19 16:14:45.476 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/_framework/aspnetcore-browser-refresh.js - -
+2023-10-19 16:14:45.476 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/_vs/browserLink - -
+2023-10-19 16:14:45.505 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/_framework/aspnetcore-browser-refresh.js - - - 200 12370 application/javascript;+charset=utf-8 29.7966ms
+2023-10-19 16:14:45.526 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 51.1333ms
+2023-10-19 16:14:45.584 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7121/favicon.ico - -
+2023-10-19 16:14:45.586 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-10-19 16:14:45.593 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7121/favicon.ico - - - 500 - text/plain;+charset=utf-8 10.1653ms
+2023-10-19 16:14:56.695 +02:00 [INF] Now listening on: http://localhost:5161
+2023-10-19 16:14:56.758 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-19 16:14:56.759 +02:00 [INF] Hosting environment: Development
+2023-10-19 16:14:56.760 +02:00 [INF] Content root path: C:\Users\david\OneDrive\Desktop\295\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+2023-10-19 16:14:57.499 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+2023-10-19 16:14:57.570 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-10-19 16:14:57.795 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 500 - text/html;+charset=utf-8 297.5668ms
+2023-10-19 16:14:57.802 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/_vs/browserLink - -
+2023-10-19 16:14:57.805 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/_framework/aspnetcore-browser-refresh.js - -
+2023-10-19 16:14:57.819 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/_framework/aspnetcore-browser-refresh.js - - - 200 12370 application/javascript;+charset=utf-8 13.9702ms
+2023-10-19 16:14:57.829 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.6969ms
+2023-10-19 16:14:57.923 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5161/favicon.ico - -
+2023-10-19 16:14:57.924 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at lambda_method1(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-10-19 16:14:57.930 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5161/favicon.ico - - - 500 - text/plain;+charset=utf-8 6.7084ms
