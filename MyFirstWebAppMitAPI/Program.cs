@@ -1,18 +1,19 @@
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
+// Add services to the container.
 
-// Read the configuration from the appsettings.json file
-var configuration = builder.Configuration;
-
-// Initialize and configure Serilog
-Log.Logger = new LoggerConfiguration()
-    .ReadFrom.Configuration(configuration)
-    .WriteTo.File("Logs/log.txt", rollingInterval: RollingInterval.Day)
+// SeriLogger mit appsettings.json Konfiguration
+var loggerFromSettings = new LoggerConfiguration()
+    .ReadFrom.Configuration(builder.Configuration)
+    .Enrich.FromLogContext()
     .CreateLogger();
 
-// Add Serilog as the logging provider
-builder.Host.UseSerilog();
+builder.Logging.ClearProviders();
+builder.Logging.AddSerilog(loggerFromSettings);
+
+// ... rest of your code ...
+
 
 // ... rest of your code ...
 

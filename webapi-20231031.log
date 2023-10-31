@@ -1,0 +1,50 @@
+[2023-10-31 09:29:21.217 +01:00  WRN]  Failed to determine the https port for redirect.
+[2023-10-31 09:34:52.773 +01:00  INF]  Now listening on: http://localhost:5161
+[2023-10-31 09:34:52.788 +01:00  INF]  Application started. Press Ctrl+C to shut down.
+[2023-10-31 09:34:52.789 +01:00  INF]  Hosting environment: Development
+[2023-10-31 09:34:52.789 +01:00  INF]  Content root path: C:\Github\MyFirstWebAppMitAPI\MyFirstWebAppMitAPI
+[2023-10-31 09:34:53.472 +01:00  INF]  Request starting HTTP/1.1 GET http://localhost:5161/swagger/index.html - -
+[2023-10-31 09:34:53.742 +01:00  INF]  Request starting HTTP/1.1 GET http://localhost:5161/_framework/aspnetcore-browser-refresh.js - -
+[2023-10-31 09:34:53.751 +01:00  INF]  Request starting HTTP/1.1 GET http://localhost:5161/_vs/browserLink - -
+[2023-10-31 09:34:53.756 +01:00  INF]  Request finished HTTP/1.1 GET http://localhost:5161/swagger/index.html - - - 200 - text/html;charset=utf-8 285.0215ms
+[2023-10-31 09:34:53.757 +01:00  INF]  Request finished HTTP/1.1 GET http://localhost:5161/_framework/aspnetcore-browser-refresh.js - - - 200 12370 application/javascript;+charset=utf-8 15.2108ms
+[2023-10-31 09:34:53.775 +01:00  INF]  Request finished HTTP/1.1 GET http://localhost:5161/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 25.1522ms
+[2023-10-31 09:34:53.894 +01:00  INF]  Request starting HTTP/1.1 GET http://localhost:5161/swagger/v1/swagger.json - -
+[2023-10-31 09:34:53.967 +01:00  INF]  Request finished HTTP/1.1 GET http://localhost:5161/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 73.0780ms
+[2023-10-31 09:35:02.039 +01:00  INF]  Request starting HTTP/1.1 GET http://localhost:5161/api/Values/0 - -
+[2023-10-31 09:35:02.052 +01:00  WRN]  Failed to determine the https port for redirect.
+[2023-10-31 09:35:02.059 +01:00  INF]  Executing endpoint 'MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI)'
+[2023-10-31 09:35:02.088 +01:00  INF]  Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] Get(Int32) on controller MyFirstWebAppMitAPI.Controllers.ValuesController (MyFirstWebAppMitAPI).
+[2023-10-31 09:35:02.167 +01:00  INF]  Executing action method MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI) - Validation state: "Valid"
+[2023-10-31 09:35:02.177 +01:00  INF]  Executed action method MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI), returned result Microsoft.AspNetCore.Mvc.NotFoundResult in 0.9609ms.
+[2023-10-31 09:35:02.189 +01:00  INF]  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+[2023-10-31 09:35:02.201 +01:00  INF]  Executed action MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI) in 107.9095ms
+[2023-10-31 09:35:02.201 +01:00  INF]  Executed endpoint 'MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI)'
+[2023-10-31 09:35:02.201 +01:00  INF]  Request finished HTTP/1.1 GET http://localhost:5161/api/Values/0 - - - 404 - application/problem+json;+charset=utf-8 162.2709ms
+[2023-10-31 09:35:18.811 +01:00  INF]  Request starting HTTP/1.1 POST http://localhost:5161/api/Values/add application/json 13
+[2023-10-31 09:35:18.813 +01:00  INF]  Executing endpoint 'MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI)'
+[2023-10-31 09:35:18.816 +01:00  INF]  Route matched with {action = "Add", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] Add(System.String) on controller MyFirstWebAppMitAPI.Controllers.ValuesController (MyFirstWebAppMitAPI).
+[2023-10-31 09:35:18.855 +01:00  INF]  Executing action method MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI) - Validation state: "Valid"
+[2023-10-31 09:35:18.856 +01:00  INF]  Executed action method MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.5583ms.
+[2023-10-31 09:35:18.856 +01:00  INF]  Executing OkObjectResult, writing value of type 'System.String'.
+[2023-10-31 09:35:18.857 +01:00  INF]  Executed action MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI) in 40.9191ms
+[2023-10-31 09:35:18.857 +01:00  INF]  Executed endpoint 'MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI)'
+[2023-10-31 09:35:18.857 +01:00  INF]  Request finished HTTP/1.1 POST http://localhost:5161/api/Values/add application/json 13 - 200 - text/plain;+charset=utf-8 46.3989ms
+[2023-10-31 09:35:21.537 +01:00  INF]  Request starting HTTP/1.1 POST http://localhost:5161/api/Values/add application/json 13
+[2023-10-31 09:35:21.537 +01:00  INF]  Executing endpoint 'MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI)'
+[2023-10-31 09:35:21.537 +01:00  INF]  Route matched with {action = "Add", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] Add(System.String) on controller MyFirstWebAppMitAPI.Controllers.ValuesController (MyFirstWebAppMitAPI).
+[2023-10-31 09:35:21.558 +01:00  INF]  Executing action method MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI) - Validation state: "Valid"
+[2023-10-31 09:35:21.558 +01:00  INF]  Executed action method MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 0.0181ms.
+[2023-10-31 09:35:21.558 +01:00  INF]  Executing OkObjectResult, writing value of type 'System.String'.
+[2023-10-31 09:35:21.558 +01:00  INF]  Executed action MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI) in 20.7905ms
+[2023-10-31 09:35:21.558 +01:00  INF]  Executed endpoint 'MyFirstWebAppMitAPI.Controllers.ValuesController.Add (MyFirstWebAppMitAPI)'
+[2023-10-31 09:35:21.559 +01:00  INF]  Request finished HTTP/1.1 POST http://localhost:5161/api/Values/add application/json 13 - 200 - text/plain;+charset=utf-8 21.6605ms
+[2023-10-31 09:35:24.591 +01:00  INF]  Request starting HTTP/1.1 GET http://localhost:5161/api/Values/0 - -
+[2023-10-31 09:35:24.591 +01:00  INF]  Executing endpoint 'MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI)'
+[2023-10-31 09:35:24.591 +01:00  INF]  Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.String] Get(Int32) on controller MyFirstWebAppMitAPI.Controllers.ValuesController (MyFirstWebAppMitAPI).
+[2023-10-31 09:35:24.611 +01:00  INF]  Executing action method MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI) - Validation state: "Valid"
+[2023-10-31 09:35:24.611 +01:00  INF]  Executed action method MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.0661ms.
+[2023-10-31 09:35:24.611 +01:00  INF]  Executing ObjectResult, writing value of type 'System.String'.
+[2023-10-31 09:35:24.611 +01:00  INF]  Executed action MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI) in 19.8871ms
+[2023-10-31 09:35:24.611 +01:00  INF]  Executed endpoint 'MyFirstWebAppMitAPI.Controllers.ValuesController.Get (MyFirstWebAppMitAPI)'
+[2023-10-31 09:35:24.611 +01:00  INF]  Request finished HTTP/1.1 GET http://localhost:5161/api/Values/0 - - - 200 - text/plain;+charset=utf-8 20.5798ms
